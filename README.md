@@ -216,6 +216,20 @@ This relationship links each claim to the corresponding policy record.
 
 The simulation generates **1,000,000 policies** using probabilistic rules.
 
+## Dataset
+
+The full dataset is generated using the `generate_data.py` script.
+
+Due to GitHub file size limits, only a small sample dataset is included in the repository.
+
+To generate the full dataset:
+
+```bash
+python generate_data.py
+```
+
+---
+
 ## Policy Purchase Distribution
 
 Policy purchase dates were randomly distributed across **all days of 2024**, ensuring a realistic spread of policy sales.
@@ -440,3 +454,4 @@ This project demonstrates how a simulated dataset can be used to analyze **insur
 By translating business rules into structured data and analyzing the resulting patterns, we can better understand how **premium timing, claim behaviour, and policy design influence overall risk exposure**.
 
 Even in a simplified simulation, these insights reflect the type of analysis performed by **Business Intelligence and insurance analytics teams**.
+
