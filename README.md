@@ -1,7 +1,7 @@
 # Insurance Portfolio Simulation & Claims Analysis
 
 **Business Intelligence Intern Assignment**  
-**Author:** Your Name  
+**Author:** Shruti
 
 ---
 
@@ -454,4 +454,5 @@ This project demonstrates how a simulated dataset can be used to analyze **insur
 By translating business rules into structured data and analyzing the resulting patterns, we can better understand how **premium timing, claim behaviour, and policy design influence overall risk exposure**.
 
 Even in a simplified simulation, these insights reflect the type of analysis performed by **Business Intelligence and insurance analytics teams**.
+
 
