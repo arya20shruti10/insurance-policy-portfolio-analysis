@@ -1,6 +1,5 @@
 # Insurance Portfolio Simulation & Claims Analysis
-
-**Business Intelligence Intern Assignment**  
+ 
 **Author:** Shruti
 
 ---
