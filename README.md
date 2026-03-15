@@ -156,7 +156,7 @@ These include charts such as:
 
 A preview of the dashboard is shown below.
 
-![Insurance Dashboard](Visuals/dashboard_screenshot.png)
+![Insurance Dashboard]./dashboard_screenshot.png
 
 ---
 
