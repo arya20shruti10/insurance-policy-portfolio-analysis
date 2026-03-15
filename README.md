@@ -1,5 +1,7 @@
 # Insurance Portfolio Simulation & Claims Analysis
+
 **End-to-end analytics project · Python · SQL · Power BI**
+
 **Author:** Shruti
 
 ---
