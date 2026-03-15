@@ -359,8 +359,26 @@ These correspond to the two simulated claim scenarios.
 ### Loss Ratio by Tenure
 Loss Ratio = Total Claims / Total Premium
 
+| Policy Tenure | Total Premium | Total Claims | Loss Ratio |
+|--------------|--------------|--------------|------------|
+| 1 year       | INR 19.94 M  | INR 77.29 M  | 387.66%     |
+| 2 years      | INR 60.02 M  | INR 119.75 M  | 199.51%     |
+| 3 years      | INR 120.16 M  | INR 158.18 M  | 131.64%     |
+| 4 years      | INR 39.99 M  | INR 139.32 M  | **348.41% ← highest risk** |
 
-This metric helps identify **which policy durations are most financially sustainable**.
+**Key finding:** All policy tenures are loss-making (loss ratio > 100%),
+indicating the simulated portfolio is under-priced relative to claim exposure.
+1-year policies carry the highest loss ratio (387%) due to low premium
+collection being overwhelmed by the defect claim wave. 4-year policies
+show the second-highest ratio (348%) driven by delayed tail-risk claims
+in 2026 — the most dangerous type for reserve planning as they are
+harder to predict. 3-year policies are the most financially sustainable
+at 131%, though still loss-making.
+
+**Reserve planning implication:** An insurer running this portfolio would
+need to hold significantly higher reserves for short and long-tenure
+policies than standard pricing models would suggest.
+
 
 ---
 
