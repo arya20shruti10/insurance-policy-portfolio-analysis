@@ -1,5 +1,5 @@
 # Insurance Portfolio Simulation & Claims Analysis
- 
+**End-to-end analytics project · Python · SQL · Power BI**
 **Author:** Shruti
 
 ---
@@ -84,8 +84,8 @@ insurance-policy-analysis
 ├── sql_queries.sql         # SQL queries for analysis
 │
 ├── data/
-│   ├── policy_data.csv
-│   └── claims_data.csv
+│   ├── policy_data_sample.csv    # sample policy data
+│   └── claims_data_sample.csv    # sample claims data
 │
 ├── visuals/
 │   └── dashboard_screenshot.png
